@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+johnnashola.wixsite.com	TRUE	/website-1	FALSE	1999999999	svSession	fb8a41f7cc25a158a1bae986b9dd8b1132184ad8f2f7c49d7a89050bc7f7b0edf56b7d004afdc6b6e9cbe86912a4d0141e60994d53964e647acf431e4f798bcdc3a378b1bb6236319cd1ef516d4237d2f34410654580e8c4b4a16ce75d96cafb
+johnnashola.wixsite.com	TRUE	/website-1	FALSE	1999999999	TS01dffcbf	01f0e931311e62daf83986ca2375a7d66a1c8b4a566bf18f835998bb22040b99fdd5cdb4b5056f77a589f9f8168f499d087b0c5f44
+johnnashola.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1599756380|SW6og52cP4RM
+johnnashola.wixsite.com	TRUE	/	FALSE	1999999999	hs	425542645
+johnnashola.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42"
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01f0e931311e62daf83986ca2375a7d66a1c8b4a566bf18f835998bb22040b99fdd5cdb4b5056f77a589f9f8168f499d087b0c5f44
+johnnashola.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
